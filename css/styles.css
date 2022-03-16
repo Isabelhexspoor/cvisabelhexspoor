@@ -14,7 +14,8 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #97A6A0;
+    background-color: deeppink;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
 }
 
 .resume-main {
@@ -22,7 +23,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #594B3F;
+	background-color: pink;
 }
 
 /* Styles for lists in the document */
